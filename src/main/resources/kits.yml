@@ -1,0 +1,61 @@
+kits:
+  NoDebuff:
+    enabled: true
+    knockback-profile: default
+    icon:
+      material: POTION
+      durability: 16421
+    loadout:
+      armor: t@313:e@0@2:e@34@3:e@2@4;t@312:e@0@2:e@34@3;t@311:e@0@2:e@34@3;t@310:e@0@2:e@34@3;
+      contents: t@276:e@16@3:e@20@2:e@34@3;t@368:a@16;t@373:d@8259;t@373:d@8226;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@364:a@64;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@8226;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@8226;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@16421;t@373:d@8226;
+    game-rules:
+      ranked: true
+      editable: true
+      boxing: false
+      build: false
+      sumo: false
+      combo: false
+      hit-delay: 20
+      spleef: false
+      battlerush: false
+      bridge: false
+      pearlfight: false
+      bedwars: false
+      partyffa: true
+      partysplit: true
+      ffacenter: true
+      antifoodloss: false
+      stickspawn: false
+      voidspawn: false
+      water-kill: false
+      lava-kill: false
+      showhealth: false
+      noitems: false
+      timed: false
+      bow-hp: false
+      skywars: false
+      botfight: true
+    edit-rules:
+      allow-potion-fill: false
+      items:
+        '1':
+          material: COOKED_BEEF
+          amount: 64
+          durability: 0
+        '2':
+          material: GOLDEN_CARROT
+          amount: 64
+          durability: 0
+        '3':
+          material: POTION
+          amount: 1
+          durability: 16421
+        '4':
+          material: POTION
+          amount: 1
+          durability: 8226
+        '5':
+          material: POTION
+          amount: 1
+          durability: 8259
+    display-name: §4§lNoDebuff

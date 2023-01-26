@@ -1,0 +1,12 @@
+arenas:
+  Test:
+    type: SHARED
+    icon:
+      material: PAPER
+      durability: 0
+    spawn1: world:0.0:60.0:0.0:0.0:1
+    spawn2: world:1.0:60.0:1.0:0.0:1
+    min: world:0.0:60.0:0.0:0.0:1
+    max: world:1.0:60.0:1.0:0.0:1
+    kits:
+      - NoDebuff

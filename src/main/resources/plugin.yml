@@ -1,0 +1,9 @@
+main: me.cprox.practice.Practice
+name: Laint
+version: 1.0
+authors: ["cprox13"]
+depend:
+  - ProtocolLib
+softdepend:
+  - HolographicDisplays
+  - PlaceholderAPI

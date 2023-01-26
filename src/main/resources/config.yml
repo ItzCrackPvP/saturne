@@ -1,0 +1,16 @@
+License: 'insert-license'
+Mongo:
+  URI-Enabled: false
+  Normal:
+    Host: 127.0.0.1
+    Port: 27017
+    Database: Laint
+    Auth:
+      Enabled: false
+      Username: root
+      Password: root
+  URI: mongodb://127.0.0.1:27017/Laint
+  Database: Laint
+Practice:
+  Spawn: world:0.0:65.0:0.0:0.0:0.0
+Rating-Enabled: true
